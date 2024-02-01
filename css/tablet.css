@@ -1,0 +1,12 @@
+.main_beneficios_container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    max-width: 1024px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.main_backgroundimg{
+    background-image: url(/Assets/img/bitcoinbaby.png);
+}
+
